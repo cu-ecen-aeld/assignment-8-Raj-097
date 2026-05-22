@@ -6,7 +6,7 @@ LIC_FILES_CHKSUM = "file://${COMMON_LICENSE_DIR}/MIT;md5=0835ade698e0bcf8506ecda
 SRC_URI = "git://github.com/cu-ecen-aeld/Programs_for_Server_and_Device_Driver.git;protocol=ssh;branch=main"
 
 
-SRCREV = "21ea08267855b813ba7939cfd499483daeb4d6d8"
+SRCREV = "706acaf6682921cde6edd2d5eaf990518ee390c7"
 
 PV = "1.0+git${SRCPV}"
 # SRCPV expands to a short hash from SRCREV (aesd-assignments-1.0+git1f993ece38)
